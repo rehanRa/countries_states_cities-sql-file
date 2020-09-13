@@ -1,7 +1,5 @@
 -- MySQL dump 10.13  Distrib 8.0.17, for Win64 (x86_64)
---
--- Host: religate-1.cluster-cbwzbzpvcjei.ap-south-1.rds.amazonaws.com    Database: nhseven
--- ------------------------------------------------------
+ 
 -- Server version	5.7.12
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -50,5 +48,3 @@ UNLOCK TABLES;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
--- Dump completed on 2020-09-13 23:52:33
